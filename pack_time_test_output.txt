@@ -1,0 +1,102 @@
+test1: c=gargerahfdavddsvsdvfr, flo=4.50
+test1: c=gargerahfdavddsvsdvfr, flo=8.70
+test1: c=gargerahfdavddsvsdvfr, flo=4.50
+test1: c=gargerahfdavddsvsdvfr, flo=3.40
+test1: c=gargerahfdavddsvsdvfr, flo=5.20
+test1: c=gargerahfdavddsvsdvfr, flo=0.50
+test1: c=gargerahfdavddsvsdvfr, flo=6.40
+test1: c=gargerahfdavddsvsdvfr, flo=6.60
+test1: c=gargerahfdavddsvsdvfr, flo=3.00
+test1: c=gargerahfdavddsvsdvfr, flo=2.60
+test1: c=gargerahfdavddsvsdvfr, flo=1.10
+test1: c=gargerahfdavddsvsdvfr, flo=6.60
+test1: c=gargerahfdavddsvsdvfr, flo=7.40
+test1: c=gargerahfdavddsvsdvfr, flo=5.40
+test1: c=gargerahfdavddsvsdvfr, flo=2.40
+test1: c=gargerahfdavddsvsdvfr, flo=7.10
+test1: c=gargerahfdavddsvsdvfr, flo=7.50
+test1: c=gargerahfdavddsvsdvfr, flo=9.90
+test1: c=gargerahfdavddsvsdvfr, flo=3.80
+test1: c=gargerahfdavddsvsdvfr, flo=1.40
+a->a->flo=2.20,
+a->flo1=2.100000,
+test1: c=gargerahfdavddsvsdvfr, flo=9.20
+test1: c=gargerahfdavddsvsdvfr, flo=1.80
+test1: c=gargerahfdavddsvsdvfr, flo=5.60
+test1: c=gargerahfdavddsvsdvfr, flo=3.00
+test1: c=gargerahfdavddsvsdvfr, flo=0.10
+test1: c=gargerahfdavddsvsdvfr, flo=6.00
+test1: c=gargerahfdavddsvsdvfr, flo=7.70
+test1: c=gargerahfdavddsvsdvfr, flo=9.60
+test1: c=gargerahfdavddsvsdvfr, flo=9.30
+test1: c=gargerahfdavddsvsdvfr, flo=1.40
+test1: c=gargerahfdavddsvsdvfr, flo=6.60
+test1: c=gargerahfdavddsvsdvfr, flo=1.80
+test1: c=gargerahfdavddsvsdvfr, flo=1.30
+test1: c=gargerahfdavddsvsdvfr, flo=0.10
+test1: c=gargerahfdavddsvsdvfr, flo=4.20
+test1: c=gargerahfdavddsvsdvfr, flo=7.10
+test1: c=gargerahfdavddsvsdvfr, flo=1.90
+test1: c=gargerahfdavddsvsdvfr, flo=3.90
+test1: c=gargerahfdavddsvsdvfr, flo=6.20
+test1: c=gargerahfdavddsvsdvfr, flo=1.00
+a->a->flo=1.90,
+a->flo2=5.900000,
+end
+
+test1: c=gargerahfdavddsvsdvfr, flo=5.00
+test1: c=gargerahfdavddsvsdvfr, flo=2.00
+test1: c=gargerahfdavddsvsdvfr, flo=9.00
+test1: c=gargerahfdavddsvsdvfr, flo=3.60
+test1: c=gargerahfdavddsvsdvfr, flo=7.90
+test1: c=gargerahfdavddsvsdvfr, flo=0.70
+test1: c=gargerahfdavddsvsdvfr, flo=8.70
+test1: c=gargerahfdavddsvsdvfr, flo=1.70
+test1: c=gargerahfdavddsvsdvfr, flo=3.30
+test1: c=gargerahfdavddsvsdvfr, flo=3.10
+test1: c=gargerahfdavddsvsdvfr, flo=6.40
+test1: c=gargerahfdavddsvsdvfr, flo=9.20
+test1: c=gargerahfdavddsvsdvfr, flo=3.70
+test1: c=gargerahfdavddsvsdvfr, flo=0.90
+test1: c=gargerahfdavddsvsdvfr, flo=7.50
+test1: c=gargerahfdavddsvsdvfr, flo=0.60
+test1: c=gargerahfdavddsvsdvfr, flo=0.60
+test1: c=gargerahfdavddsvsdvfr, flo=9.80
+test1: c=gargerahfdavddsvsdvfr, flo=6.80
+test1: c=gargerahfdavddsvsdvfr, flo=7.90
+a->a->flo=7.00,
+a->flo1=5.500000,
+test1: c=gargerahfdavddsvsdvfr, flo=8.80
+test1: c=gargerahfdavddsvsdvfr, flo=0.50
+test1: c=gargerahfdavddsvsdvfr, flo=4.50
+test1: c=gargerahfdavddsvsdvfr, flo=8.50
+test1: c=gargerahfdavddsvsdvfr, flo=9.40
+test1: c=gargerahfdavddsvsdvfr, flo=7.50
+test1: c=gargerahfdavddsvsdvfr, flo=7.00
+test1: c=gargerahfdavddsvsdvfr, flo=4.10
+test1: c=gargerahfdavddsvsdvfr, flo=5.00
+test1: c=gargerahfdavddsvsdvfr, flo=6.40
+test1: c=gargerahfdavddsvsdvfr, flo=8.50
+test1: c=gargerahfdavddsvsdvfr, flo=0.30
+test1: c=gargerahfdavddsvsdvfr, flo=0.60
+test1: c=gargerahfdavddsvsdvfr, flo=2.20
+test1: c=gargerahfdavddsvsdvfr, flo=5.20
+test1: c=gargerahfdavddsvsdvfr, flo=1.70
+test1: c=gargerahfdavddsvsdvfr, flo=1.50
+test1: c=gargerahfdavddsvsdvfr, flo=3.20
+test1: c=gargerahfdavddsvsdvfr, flo=2.30
+test1: c=gargerahfdavddsvsdvfr, flo=5.30
+a->a->flo=4.80,
+a->flo2=6.300000,
+end
+
+CLOCKS_PER_SEC=1000
+repeat 10000000 times
+nornal=5.020000
+pack(1)=5.046000
+sizeof test1:56
+sizeof test1_pack:54
+sizeof test2:1136
+sizeof test2_pack:1096
+sizeof test3:2304
+sizeof test3_pack:2224
